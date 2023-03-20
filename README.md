@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).<br><br>
+Redirects to Get OTP page on clicking the 'not a member' button and renders the 'Success' page on clicking Next. 
 
 ## Available Scripts
 

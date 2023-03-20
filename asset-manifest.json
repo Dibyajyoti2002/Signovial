@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/react-gh-pages/static/js/main.282ce6f5.js",
-    "static/media/vector.png": "/react-gh-pages/static/media/vector.cac5010ba19df37bd80e.png",
-    "index.html": "/react-gh-pages/index.html",
-    "main.282ce6f5.js.map": "/react-gh-pages/static/js/main.282ce6f5.js.map"
+    "main.js": "/Signovial/static/js/main.eb0229b8.js",
+    "static/media/vector.png": "/Signovial/static/media/vector.cac5010ba19df37bd80e.png",
+    "index.html": "/Signovial/index.html",
+    "main.eb0229b8.js.map": "/Signovial/static/js/main.eb0229b8.js.map"
   },
   "entrypoints": [
-    "static/js/main.282ce6f5.js"
+    "static/js/main.eb0229b8.js"
   ]
 }
